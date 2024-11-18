@@ -31,8 +31,8 @@ El proyecto está organizado en las siguientes capas y componentes:
   - Incluye las clases de prueba, como `TareaTest` y `TaskTest`, para validar las funcionalidades clave.
 
 ### Diagramas
-- **Diagrama de Clases**: Proporciona una vista general de las clases y sus relaciones. [Ver Diagrama](project5.0/ClassDiagram_Project_EN.png).
-- **Diagrama de Casos de Uso**: Describe las interacciones del usuario con la aplicación. [Ver Diagrama](project5.0/UseCaseDiagram_Project_EN.png).
+- **Diagrama de Clases**: Proporciona una vista general de las clases y sus relaciones. [Ver Diagrama](todo-list/ClassDiagram_Project_EN.png).
+- **Diagrama de Casos de Uso**: Describe las interacciones del usuario con la aplicación. [Ver Diagrama](todo-list/UseCaseDiagram_Project_EN.png).
 
 ## Requisitos del Sistema
 - Java 11 o superior.
@@ -42,7 +42,7 @@ El proyecto está organizado en las siguientes capas y componentes:
 ## Instalación y Ejecución
 1. **Clonar el repositorio**:
    ```bash
-   git clone [https://github.com/tu_usuario/todo-list.git](https://github.com/jesus2307/Project-Software5.0.git)
+   git clone https://github.com/jesus2307/todo-list.git
    cd todo-list
    ```
 2. **Configurar las dependencias**:
