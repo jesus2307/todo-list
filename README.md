@@ -81,6 +81,7 @@ Para ejecutar las pruebas, utiliza el comando:
 mvn test
 ```
 
+
 ## Mejoras Futuras
 - **Filtros Avanzados**: Permitir filtrar tareas por prioridad, categoría o estado.
 - **Notificaciones**: Implementar alertas para las tareas que están cerca de su fecha de vencimiento.
